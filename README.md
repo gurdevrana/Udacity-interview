@@ -83,4 +83,4 @@ I've added the functionality to roll two dice and return the result as a json st
 ### Question 6
 If you were to start your full-stack developer position today, what would be your goals a year from now? 
 
-I will be eager to learn and enhance my skills as much as possible,to work on a bigger project and to be part of highly reputed company.
+I will be eager to learn and enhance my skills as much as possible, to work on a bigger project and to be part of a highly reputed company.Learning and enhancing my skills can be done only by working for a reputed company like yours.After gaining much experience and working for a company nearly 5-10 years I'd like to keep programming for fun, and I'm already starting to make moves in that direction.I'll probably get far more done on my own; I just won't get paid for it.Moreover, I have taken into consideration to launching an own website which might be something I could build a startup from. 
